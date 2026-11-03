@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+*.cyclo
+/stm32h750vbt6_weact_studios/*/Debug
