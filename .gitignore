@@ -55,3 +55,4 @@ dkms.conf
 *.dwo
 *.cyclo
 /stm32h750vbt6_weact_studios/*/Debug
+/stm32h750vbt6_weact_studios/*/*/Debug
